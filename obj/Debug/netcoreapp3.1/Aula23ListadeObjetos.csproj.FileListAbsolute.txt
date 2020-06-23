@@ -1,0 +1,13 @@
+C:\Users\kermt\Documents\Projetos\Aula23ListadeObjetos\bin\Debug\netcoreapp3.1\Aula23ListadeObjetos.exe
+C:\Users\kermt\Documents\Projetos\Aula23ListadeObjetos\bin\Debug\netcoreapp3.1\Aula23ListadeObjetos.deps.json
+C:\Users\kermt\Documents\Projetos\Aula23ListadeObjetos\bin\Debug\netcoreapp3.1\Aula23ListadeObjetos.runtimeconfig.json
+C:\Users\kermt\Documents\Projetos\Aula23ListadeObjetos\bin\Debug\netcoreapp3.1\Aula23ListadeObjetos.runtimeconfig.dev.json
+C:\Users\kermt\Documents\Projetos\Aula23ListadeObjetos\bin\Debug\netcoreapp3.1\Aula23ListadeObjetos.dll
+C:\Users\kermt\Documents\Projetos\Aula23ListadeObjetos\bin\Debug\netcoreapp3.1\Aula23ListadeObjetos.pdb
+C:\Users\kermt\Documents\Projetos\Aula23ListadeObjetos\obj\Debug\netcoreapp3.1\Aula23ListadeObjetos.csprojAssemblyReference.cache
+C:\Users\kermt\Documents\Projetos\Aula23ListadeObjetos\obj\Debug\netcoreapp3.1\Aula23ListadeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\kermt\Documents\Projetos\Aula23ListadeObjetos\obj\Debug\netcoreapp3.1\Aula23ListadeObjetos.AssemblyInfoInputs.cache
+C:\Users\kermt\Documents\Projetos\Aula23ListadeObjetos\obj\Debug\netcoreapp3.1\Aula23ListadeObjetos.AssemblyInfo.cs
+C:\Users\kermt\Documents\Projetos\Aula23ListadeObjetos\obj\Debug\netcoreapp3.1\Aula23ListadeObjetos.dll
+C:\Users\kermt\Documents\Projetos\Aula23ListadeObjetos\obj\Debug\netcoreapp3.1\Aula23ListadeObjetos.pdb
+C:\Users\kermt\Documents\Projetos\Aula23ListadeObjetos\obj\Debug\netcoreapp3.1\Aula23ListadeObjetos.genruntimeconfig.cache
